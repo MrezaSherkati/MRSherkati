@@ -2,12 +2,9 @@
 
 
 
-### Markdown
+### About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+I am Mohammadreza Sherkati, a graduate Bachelor Student in Computer Engineering(Hardware) at K.N.Toosi University of Technology, which is known as one of the top five universities in Iran.
 
 # Header 1
 ## Header 2
