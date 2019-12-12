@@ -23,7 +23,7 @@ Research Assistant &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 - Worked on the project "Location Service inWireless Sensor Networks (WSN)". Optimizing the process of
 finding the location of Sinks in wireless sensor networks. Advisor: Saeed Sedighian Kashi.
 
-**Machine Learning Research Group, K.N.Toosi University of Technology Tehran, Iran**
+**Machine Learning Research Group, K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tehran, Iran**
 ## Teaching Experience
 ## Project Experience
 ## Honors and Awards
