@@ -7,7 +7,7 @@
 I am Mohammadreza Sherkati, a graduate Bachelor Student in Computer Engineering(Hardware) at K.N.Toosi University of Technology, which is known as one of the top five universities in Iran.
 
 ## Education
--Bulleted K.N.Toosi University of Technology                       Tehran, Iran
+- K.N.Toosi University of Technology                       Tehran, Iran
 B.Sc in Computer Engineering (Hardware)                  Sep 2014 - Sep 2019
 
 
