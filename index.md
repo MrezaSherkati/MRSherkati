@@ -28,7 +28,10 @@ Research Assistant &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 - Worked on the project "Playing an Atari game using Deep Reinforcement Learning approach". Advisor:
 Seyed Hossein Khasteh.
 ## Teaching Experience
-**Computer Engineering Dept., K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
+**Computer Engineering Dept., K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tehran, Iran**\
+Teaching Assistant
+- Principles of Compiler Design, Feb 2018 - Jun 2018
+- Fundamentals of Formal Languages and Automata, Feb 2018 – Jun 2018
 ## Project Experience
 ## Honors and Awards
 ## Technical Skills
