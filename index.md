@@ -33,6 +33,13 @@ Teaching Assistant
 - Principles of Compiler Design, Feb 2018 - Jun 2018
 - Fundamentals of Formal Languages and Automata, Feb 2018 – Jun 2018
 ## Project Experience
+- **Playing an Atari game using Deep Reinforcement Learning approach:** Designed an algorithm using Deep Reinforcement Learning approach which can play Atari. I used Q-Learning as my Reinforcement Learning method and Convolutional Neural Network as my Deep Learning Architecture.
+- **Graphical Chess Java Game:** Advanced Programming course project. A multi-player game written
+in Java Programming language, with a user-friendly graphical user interface.
+- **Compiler Design:** Implemented a one-pass complete compiler which contained scanner, parser,
+lexical analyzer, semantic analyzer and error processing for simple precedence grammar with C++
+programming language.
+- **CPU Design:** Implemented a simple CPU with Verilog Programming Language.
 ## Honors and Awards
 ## Technical Skills
 ## Contact
