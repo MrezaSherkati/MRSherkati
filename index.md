@@ -67,7 +67,6 @@ year, for students starting middle and high school.
 - Department of Computer Engineering, K.N.Toosi University of Technology, Tehran, Iran
 
 
+[LinkedIn](https://www.linkedin.com/in/mohammadreza-sherkati-ba7971124/)
 
-
-
-[Link](url) and ![Image](src)
+![Image of Mohammadreza](Desktop\photo_2019-12-12_18-01-06.jpg)
