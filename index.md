@@ -41,7 +41,18 @@ lexical analyzer, semantic analyzer and error processing for simple precedence g
 programming language.
 - **CPU Design:** Implemented a simple CPU with Verilog Programming Language.
 ## Honors and Awards
+**Scholarship for Undergraduate Studies at K.N.Toosi University of Technology.**
+- K.N.Toosi University of Technology is one of the top five universities in Iran, which selects the top
+ranked students in Iranian National University Entrance Exam, between 1,370,000 participants.
+
+**Admission to Allameh Tabatabaei High School.**
+- Allameh Tabatabaei High School is one of the top three high schools in Iran, training the top
+students on a more advanced level on every field of study. The student selection exam is held every
+year, for students starting middle and high school.
 ## Technical Skills
+**Programming Languages:** Python, Java, MATLAB, C, C++, R, VHDL, Verilog, Assembly
+**Web/DB technologies:** HTML, Javascript, PHP, MySQL
+**Operating Systems:** Windows, Linux, Mac OS
 ## Contact
 
 - Bulleted
@@ -50,17 +61,6 @@ programming language.
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrezaSherkati/MRSherkati/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
