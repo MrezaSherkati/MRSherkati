@@ -1,11 +1,12 @@
 ![photo_2019-12-12_18-01-06](https://user-images.githubusercontent.com/57326469/70792800-3db55e00-1daf-11ea-87f6-7d11f81146b3.jpg)
+
 # Mohammadreza Sherkati 
 
 
 
 ## About
 
-I am Mohammadreza Sherkati, a graduate Bachelor Student in Computer Engineering(Hardware) at K.N.Toosi University of Technology, which is known as one of the top five universities in Iran.
+I am Mohammadreza Sherkati, a graduate Bachelor Student in <b>Computer Engineering</b>(Hardware) at <b>K.N.Toosi University of Technology</b>, which is known as one of the <b>top five universities</b> in Iran.
 
 
 ## Education
