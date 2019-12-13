@@ -6,7 +6,7 @@
 
 ## About
 
-I am Mohammadreza Sherkati, a graduate Bachelor Student in <b>Computer Engineering</b>(Hardware) at <b>K.N.Toosi University of Technology</b>, which is known as one of the <b>top five universities</b> in Iran.
+I am Mohammadreza Sherkati, a graduated Bachelor Student in <b>Computer Engineering</b>(Hardware) at <b>K.N.Toosi University of Technology</b>, which is known as one of the <b>top five universities</b> in Iran.
 
 
 ## Education
