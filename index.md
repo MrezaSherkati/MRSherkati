@@ -51,15 +51,22 @@ students on a more advanced level on every field of study. The student selection
 year, for students starting middle and high school.
 ## Technical Skills
 **Programming Languages:** Python, Java, MATLAB, C, C++, R, VHDL, Verilog, Assembly
+
 **Web/DB technologies:** HTML, Javascript, PHP, MySQL
+
 **Operating Systems:** Windows, Linux, Mac OS
 ## Contact
+**Email Addresses:**
+- mohammadreza.sherkati@gmail.com
+- sherkati@email.kntu.ac.ir
 
-- Bulleted
-- List
+**Phone Number:**
+- +98-937-236-8877
 
-1. Numbered
-2. List
+**Address:**
+- Department of Computer Engineering, K.N.Toosi University of Technology, Tehran, Iran
+
+
 
 
 
