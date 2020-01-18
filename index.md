@@ -12,16 +12,22 @@ I am Mohammadreza Sherkati, a graduated Bachelor Student in <b>Computer Engineer
 ## Education
 
 - **K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Tehran, Iran**
-B.Sc in Computer Engineering (Hardware), Sep 2014 - Sep 2019
-
+B.Sc in Computer Engineering (Hardware), Sep 2014 - Sep 2019<br>
+-Thesis: Playing an Atari game using Deep Reinforcement Learning approach. Advisor: Seyed Hossein Khasteh.
 
 - **Allameh Tabatabaei High School &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
 Diploma in Physics and Mathematics Discipline, Sep 2010 - Jun 2014
 
 
 
-## Selected Coursework
+## Selected Coursework and Online Courses
 
+- <b>Online Courses</b>:<br>
+-Machine Learning, Stanford University, Instructor: Andrew Ng, 2016.<br>
+-Algorithms: Designs and Analysis, Stanford University, Instructor: Tim Roughgarden, 2016.<br>
+-Introduction to Psychology, University of Toronto, Instructor: Steve Joordens, 2017.
+
+- Courses at <b>K.N Toosi University of Technology</b>:<br>
 Algorithm Design, Artificial Intelligence and Expert Systems, Data Structures, Advanced Programming,
 Principles of Compiler Design, Hardware-Software Codesign, Fundamentals of Formal Languages
 and Automata, Operating Systems, Databases
@@ -37,9 +43,9 @@ finding the location of Sinks in wireless sensor networks. Advisor: Saeed Sedigh
 
 **Machine Learning Research Group, K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
 Research Assistant, Sep 2016 - Present
-- Worked on the project "Playing an Atari game using Deep Reinforcement Learning approach". Advisor:
-Seyed Hossein Khasteh.
-
+- Worked on the project "Playing an Atari game using Deep Reinforcement Learning approach". Advisor: Seyed Hossein Khasteh.
+- Worked on the project "Using Q-Learning method in finding the best route in a dynamically changing network". Advisor: Seyed Hossein Khasteh.
+- Worked on the project "Using Q-Learning method in finding the best route to the outside of a house". Advisor: Seyed Hossein Khasteh.
 
 ## Teaching Experience
 
@@ -50,10 +56,8 @@ Teaching Assistant
 - Fundamentals of Formal Languages and Automata, Feb 2018 – Jun 2018
 
 
-## Project Experience
+## Notable Course Projects
 
-
-- **Playing an Atari game using Deep Reinforcement Learning approach:** Designed an algorithm using Deep Reinforcement Learning approach which can play Atari. I used Q-Learning as my Reinforcement Learning method and Convolutional Neural Network as my Deep Learning Architecture.
 
 - **Graphical Chess Java Game:** Advanced Programming course project. A multi-player game written
 in Java Programming language, with a user-friendly graphical user interface.
@@ -64,19 +68,25 @@ programming language.
 
 - **CPU Design:** Implemented a simple CPU with Verilog Programming Language.
 
+- **FFT Filter:** Implemented a FFT filter with VHDL Programming Language for the FPGA course project.
 
+- **Designing a Timer in ATMEGA 32 Microprocessor:** Implemented a timer in ATmega 32 Microprocessor with Assembly Programming Language.
+
+- **Bank Queue Management System:** Implemented a system for queue management in banks or other places with C++ Programming Language.
+
+- **Designing a Network in GNS3:** Implemented a DHCP server in a network using GNS3 emulator.
 
 ## Honors and Awards
 
 
-**Scholarship for Undergraduate Studies at K.N.Toosi University of Technology.**
-- K.N.Toosi University of Technology is one of the top five universities in Iran, which selects the top
+- <b>Ranked</b> in top 0.1% in the nationwide university entrance exam (konkoor) among over 1,370,000 participants, Aug. 2014.
+
+- <b>Scholarship</b> for Undergraduate Studies at <b>K.N.Toosi University of Technology.,</b> Aug. 2014.<br>
+ -K.N.Toosi University of Technology is one of the top five universities in Iran, which selects the top
 ranked students in Iranian National University Entrance Exam, between 1,370,000 participants.
 
-**Admission to Allameh Tabatabaei High School.**
-- Allameh Tabatabaei High School is one of the top three high schools in Iran, training the top
-students on a more advanced level on every field of study. The student selection exam is held every
-year, for students starting middle and high school.
+- <b>Admission</b> to <b>Allameh Tabatabaei High School.,</b> Aug. 2010.<br>
+-Allameh Tabatabaei High School is one of the top three high schools in Iran.
 
 ## Technical Skills
 
@@ -86,6 +96,15 @@ year, for students starting middle and high school.
 **Web/DB technologies:** HTML, Javascript, PHP, MySQL
 
 **Operating Systems:** Windows, Linux, Mac OS
+
+**Typesetting:** TEX, LATEX, Microsoft Word
+
+## Standardized Test Scores
+
+
+- <B>TOEFL iBT:</b> Total Score: 104, Reading: 30, Listening: 29, Speaking: 23, Writing: 22
+
+- <b>GRE General:</b> Quantitative Reasoning: 161, Verbal Reasoning: 139, Analytical Writing: 3
 
 ## Contact
 
