@@ -38,7 +38,7 @@ and Automata, Operating Systems, Databases
 
 **K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
 Research Assistant, Sep 2016 - Sep 2018
-- Worked on the project "Location Service inWireless Sensor Networks (WSN)". Optimizing the process of
+- Worked on the project "Location Service in Wireless Sensor Networks (WSN)". Optimizing the process of
 finding the location of Sinks in wireless sensor networks. Advisor: Saeed Sedighian Kashi.
 
 **Machine Learning Research Group, K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
