@@ -110,7 +110,7 @@ ranked students in Iranian National University Entrance Exam, between 1,370,000 
 
 **Email Addresses:**
 - mohammadreza.sherkati@gmail.com
-- sherkati@email.kntu.ac.ir
+- sherkati@alumni.kntu.ac.ir
 
 
 
