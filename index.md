@@ -35,17 +35,21 @@ and Automata, Operating Systems, Databases
 
 ## Research Experience
 
+**Hardware-Software Codesign Research Group, University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Isfahan, Iran**
+Research Assistant, Sep 2020 - Present
+- Working on using Machine Learning methods in Hardware-Software Codesign problems. Advisor: Zohre Beiki.
+**Machine Learning Research Group, K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
+Research Assistant, Sep 2016 - Aug 2020
+- Worked on the project "Playing an Atari game using Deep Reinforcement Learning approach". Advisor: Seyed Hossein Khasteh.
+- Worked on the project "Using Q-Learning method in finding the best route in a dynamically changing network". Advisor: Seyed Hossein Khasteh.
+- Worked on the project "Using Q-Learning method in finding the best route to the outside of a house". Advisor: Seyed Hossein Khasteh.
 
 **K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
 Research Assistant, Sep 2016 - Sep 2018
 - Worked on the project "Location Service in Wireless Sensor Networks (WSN)". Optimizing the process of
 finding the location of Sinks in wireless sensor networks. Advisor: Saeed Sedighian Kashi.
 
-**Machine Learning Research Group, K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
-Research Assistant, Sep 2016 - Present
-- Worked on the project "Playing an Atari game using Deep Reinforcement Learning approach". Advisor: Seyed Hossein Khasteh.
-- Worked on the project "Using Q-Learning method in finding the best route in a dynamically changing network". Advisor: Seyed Hossein Khasteh.
-- Worked on the project "Using Q-Learning method in finding the best route to the outside of a house". Advisor: Seyed Hossein Khasteh.
+
 
 ## Teaching Experience
 
