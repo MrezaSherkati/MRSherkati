@@ -35,7 +35,7 @@ and Automata, Operating Systems, Databases
 
 ## Research Experience
 
-**Hardware-Software Codesign Research Group, University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Isfahan, Iran**
+**Hardware-Software Codesign Research Group, University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Isfahan, Iran**
 Research Assistant, Sep 2020 - Present
 - Working on using Machine Learning methods in Hardware-Software Codesign problems. Advisor: Zohre Beiki.
 
