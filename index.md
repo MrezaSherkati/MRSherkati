@@ -122,7 +122,7 @@ ranked students in Iranian National University Entrance Exam, between 1,370,000 
 
 
 **Address:**
-- Department of Computer Engineering, K.N.Toosi University of Technology, Tehran, Iran
+- Department of Computer Engineering, University of Isfahan, Isfahan, Iran
 
 
 [LinkedIn](https://www.linkedin.com/in/mohammadreza-sherkati-ba7971124/)
