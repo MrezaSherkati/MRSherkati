@@ -8,7 +8,7 @@
 
 I am Mohammadreza Sherkati. I have graduated from Bachelor degree in <b>Computer Engineering</b>(Hardware) at <b>K.N.Toosi University of Technology</b>, which is known as one of the <b>top five universities</b> in Iran.
 
-Currently, I am a Research Assistant in <b>Hardware-Software Codesign Research Group</b> at <b>University of Isfahan</b>, working on using Machine Learning methods in Hardware-Software Codesign problems.
+Currently, I am a Research Assistant in <b>Hardware-Software Codesign Research Group</b> at <b>University of Isfahan</b>, working on using Hardware-Software Codesign in Deep Learning and Image Processing problems.
 
 
 ## Education
