@@ -39,7 +39,7 @@ and Automata, Operating Systems, Databases
 
 **Hardware-Software Codesign Research Group, University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Isfahan, Iran**
 Research Assistant, Sep 2020 - Present
-- Working on using Machine Learning methods in Hardware-Software Codesign problems. Advisor: Zohre Beiki.
+- Working on using Hardware-Software Codesign in Deep Learning and Image Processing problems. Advisor: Zohre Beiki.
 
 **Machine Learning Research Group, K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
 Research Assistant, Sep 2016 - Aug 2020
