@@ -6,7 +6,7 @@
 
 ## About
 
-I am Mohammadreza Sherkati. I am a Master student in <b>Computer Engineering</b> (Computer Architecture) at <b>University of Isfahan</b>, which is known as one of the <b>top universities</b> in Iran.
+I am Mohammadreza Sherkati. I am a M.Sc student in <b>Computer Engineering</b> (Computer Architecture) at <b>University of Isfahan</b>, which is known as one of the <b>top universities</b> in Iran.
 
 I am a Research Assistant in <b>Hardware-Software Co-Design Research Group</b> at <b>University of Isfahan</b>, working on using Hardware-Software Codesign in Image Processing Algorithms.
 
