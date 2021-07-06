@@ -13,7 +13,7 @@ I am a Research Assistant in <b>Hardware-Software Co-Design Research Group</b> a
 
 ## Education
 
-- **University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Isfahan, Iran**
+- **University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;         Isfahan, Iran**
 M.Sc in Computer Engineering (Computer Architecture), Sep 2020 - Present<br>
 -Advisor: Zohre Beiki.
 
@@ -69,6 +69,8 @@ Teaching Assistant
 ## Notable Course Projects
 
 
+- **Designing a Cache Simulator:** Implemented a Cache Simulator with C Programming Language.
+
 - **Graphical Chess Java Game:** Advanced Programming course project. A multi-player game written
 in Java Programming language, with a user-friendly graphical user interface.
 
@@ -76,9 +78,9 @@ in Java Programming language, with a user-friendly graphical user interface.
 lexical analyzer, semantic analyzer and error processing for simple precedence grammar with C++
 programming language.
 
-- **CPU Design:** Implemented a simple CPU with Verilog Programming Language.
+- **CPU Design:** Implemented a simple CPU with Verilog.
 
-- **FFT Filter:** Implemented a FFT filter with VHDL Programming Language for the FPGA course project.
+- **FFT Filter:** Implemented a FFT filter with VHDL for the FPGA course project.
 
 - **Designing a Timer in ATMEGA 32 Microprocessor:** Implemented a timer in ATmega 32 Microprocessor with Assembly Programming Language.
 
