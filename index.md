@@ -6,14 +6,14 @@
 
 ## About
 
-I am Mohammadreza Sherkati. I am a Master student in <b>Computer Engineering</b>(Computer Architecture) at <b>University of Isfahan</b>, which is known as one of the <b>top universities</b> in Iran.
+I am Mohammadreza Sherkati. I am a Master student in <b>Computer Engineering</b> (Computer Architecture) at <b>University of Isfahan</b>, which is known as one of the <b>top universities</b> in Iran.
 
-I am a Research Assistant in <b>Hardware-Software Co-Design Research Group</b> at <b>University of Isfahan</b>, working on using Hardware-Software Codesign in Image Processing algorithms.
+I am a Research Assistant in <b>Hardware-Software Co-Design Research Group</b> at <b>University of Isfahan</b>, working on using Hardware-Software Codesign in Image Processing Algorithms.
 
 
 ## Education
 
-- **University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Isfahan, Iran**
+- **University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Isfahan, Iran**
 M.Sc in Computer Engineering (Computer Architecture), Sep 2020 - Present<br>
 -Advisor: Zohre Beiki.
 
@@ -36,14 +36,14 @@ Diploma in Physics and Mathematics Discipline, Sep 2010 - Jun 2014
 - Courses at <b>K.N Toosi University of Technology</b>:<br>
 Algorithm Design, Artificial Intelligence and Expert Systems, Data Structures, Advanced Programming,
 Principles of Compiler Design, Hardware-Software Codesign, Fundamentals of Formal Languages
-and Automata, Operating Systems, Databases, VLSI, Computer Architecture, DNA Computing.
+and Automata, Operating Systems, Databases, VLSI, Advanced Computer Architecture, DNA Computing.
 
 
 ## Research Experience
 
 **Hardware-Software Co-Design Research Group, University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Isfahan, Iran**
 Research Assistant, Sep 2020 - Present
-- Working on using Hardware-Software Co-Design in Image Processing algorithms. Advisor: Zohre Beiki.
+- Working on using Hardware-Software Co-Design in Image Processing Algorithms. Advisor: Zohre Beiki.
 
 **Machine Learning Research Group, K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
 Research Assistant, Sep 2016 - Aug 2020
