@@ -6,12 +6,16 @@
 
 ## About
 
-I am Mohammadreza Sherkati. I have graduated from Bachelor degree in <b>Computer Engineering</b>(Hardware) at <b>K.N.Toosi University of Technology</b>, which is known as one of the <b>top five universities</b> in Iran.
+I am Mohammadreza Sherkati. I am a Master student in <b>Computer Engineering</b>(Computer Architecture) at <b>University of Isfahan</b>, which is known as one of the <b>top universities</b> in Iran.
 
-Currently, I am a Research Assistant in <b>Hardware-Software Codesign Research Group</b> at <b>University of Isfahan</b>, working on using Hardware-Software Codesign in Deep Learning and Image Processing problems.
+I am a Research Assistant in <b>Hardware-Software Co-Design Research Group</b> at <b>University of Isfahan</b>, working on using Hardware-Software Codesign in Image Processing algorithms.
 
 
 ## Education
+
+- **University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Isfahan, Iran**
+M.Sc in Computer Engineering (Computer Architecture), Sep 2020 - Present<br>
+-Advisor: Zohre Beiki.
 
 - **K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Tehran, Iran**
 B.Sc in Computer Engineering (Hardware), Sep 2014 - Sep 2019<br>
@@ -32,19 +36,18 @@ Diploma in Physics and Mathematics Discipline, Sep 2010 - Jun 2014
 - Courses at <b>K.N Toosi University of Technology</b>:<br>
 Algorithm Design, Artificial Intelligence and Expert Systems, Data Structures, Advanced Programming,
 Principles of Compiler Design, Hardware-Software Codesign, Fundamentals of Formal Languages
-and Automata, Operating Systems, Databases
+and Automata, Operating Systems, Databases, VLSI, Computer Architecture, DNA Computing.
 
 
 ## Research Experience
 
-**Hardware-Software Codesign Research Group, University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Isfahan, Iran**
+**Hardware-Software Co-Design Research Group, University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Isfahan, Iran**
 Research Assistant, Sep 2020 - Present
-- Working on using Hardware-Software Codesign in Deep Learning and Image Processing problems. Advisor: Zohre Beiki.
+- Working on using Hardware-Software Co-Design in Image Processing algorithms. Advisor: Zohre Beiki.
 
 **Machine Learning Research Group, K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
 Research Assistant, Sep 2016 - Aug 2020
 - Worked on the project "Playing an Atari game using Deep Reinforcement Learning approach". Advisor: Seyed Hossein Khasteh.
-- Worked on the project "Using Q-Learning method in finding the best route in a dynamically changing network". Advisor: Seyed Hossein Khasteh.
 - Worked on the project "Using Q-Learning method in finding the best route to the outside of a house". Advisor: Seyed Hossein Khasteh.
 
 **K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
@@ -86,6 +89,10 @@ programming language.
 ## Honors and Awards
 
 
+- <b>Scholarship</b> for Graduate Studies at <b>University of Isfahan.,</b> Aug. 2020.<br>
+ -University of Isfahan is one of the top universities in Iran, which selects the top
+ranked students in Iranian National University Entrance Exam for Master's degree.
+
 - <b>Ranked</b> in top 0.1% in the nationwide university entrance exam (konkoor) among over 1,370,000 participants, Aug. 2014.
 
 - <b>Scholarship</b> for Undergraduate Studies at <b>K.N.Toosi University of Technology.,</b> Aug. 2014.<br>
@@ -98,9 +105,11 @@ ranked students in Iranian National University Entrance Exam, between 1,370,000 
 ## Technical Skills
 
 
-**Programming Languages:** Python, Java, MATLAB, C, C++, R, VHDL, Verilog, Assembly
+**Programming Languages:** Python, Java, MATLAB, C, C++, R, Assembly
 
-**Web/DB technologies:** HTML, Javascript, PHP, MySQL
+**Hardware Description Languages:** VHDL, Verilog, Hspice
+
+**Web/DB technologies:** HTML, MySQL
 
 **Operating Systems:** Windows, Linux, Mac OS
 
