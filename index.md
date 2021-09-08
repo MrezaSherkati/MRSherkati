@@ -18,7 +18,7 @@ M.Sc. in Computer Engineering (Computer Architecture), Sep 2020 - Present<br>
 -Advisor: Zohre Beiki.
 
 - **K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Tehran, Iran**
-B.Sc in Computer Engineering (Hardware), Sep 2014 - Sep 2019<br>
+B.Sc. in Computer Engineering (Hardware), Sep 2014 - Sep 2019<br>
 -Thesis: Playing an Atari game using Deep Reinforcement Learning approach. Advisor: Seyed Hossein Khasteh.
 
 - **Allameh Tabatabaei High School &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
