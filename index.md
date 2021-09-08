@@ -6,7 +6,7 @@
 
 ## About
 
-I am Mohammadreza Sherkati. I am a M.Sc student in <b>Computer Engineering</b> (Computer Architecture) at <b>University of Isfahan</b>, which is known as one of the <b>top universities</b> in Iran.
+I am Mohammadreza Sherkati. I am a M.Sc. student in <b>Computer Engineering</b> (Computer Architecture) at <b>University of Isfahan</b>, which is known as one of the <b>top universities</b> in Iran.
 
 I am a Research Assistant in <b>Hardware-Software Co-Design Research Group</b> at <b>University of Isfahan</b>, working on using Hardware-Software Codesign in Image Processing Algorithms.
 
@@ -14,7 +14,7 @@ I am a Research Assistant in <b>Hardware-Software Co-Design Research Group</b> a
 ## Education
 
 - **University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Isfahan, Iran**
-M.Sc in Computer Engineering (Computer Architecture), Sep 2020 - Present<br>
+M.Sc. in Computer Engineering (Computer Architecture), Sep 2020 - Present<br>
 -Advisor: Zohre Beiki.
 
 - **K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Tehran, Iran**
@@ -33,10 +33,10 @@ Diploma in Physics and Mathematics Discipline, Sep 2010 - Jun 2014
 -Algorithms: Designs and Analysis, Stanford University, Instructor: Tim Roughgarden, 2016.<br>
 -Introduction to Psychology, University of Toronto, Instructor: Steve Joordens, 2017.
 
-- Courses at <b>K.N Toosi University of Technology</b>:<br>
+- Courses at <b>K.N Toosi University of Technology</b> and <b>University of Isfahan</b>:<br>
 Algorithm Design, Artificial Intelligence and Expert Systems, Data Structures, Advanced Programming,
 Principles of Compiler Design, Hardware-Software Codesign, Fundamentals of Formal Languages
-and Automata, Operating Systems, Databases, VLSI, Advanced Computer Architecture, DNA Computing.
+and Automata, Operating Systems, Databases, VLSI, Advanced Computer Architecture, DNA Computing, VHDL.
 
 
 ## Research Experience
@@ -70,6 +70,8 @@ Teaching Assistant
 
 
 - **Designing a Cache Simulator:** Implemented a Cache Simulator with C Programming Language.
+
+- **Designing a Full Adder gate with DNA:** Implemented a Full adder gate using DNA Strand Displacement with Visual DSD tool.
 
 - **Graphical Chess Java Game:** Advanced Programming course project. A multi-player game written
 in Java Programming language, with a user-friendly graphical user interface.
@@ -120,14 +122,13 @@ ranked students in Iranian National University Entrance Exam, between 1,370,000 
 ## Standardized Test Scores
 
 
-- <B>TOEFL iBT:</b> Total Score: 104, Reading: 30, Listening: 29, Speaking: 23, Writing: 22
-
 - <b>GRE General:</b> Quantitative Reasoning: 161, Verbal Reasoning: 139, Analytical Writing: 3
 
 ## Contact
 
 **Email Addresses:**
 - mohammadreza.sherkati@gmail.com
+- m.sherkati@eng.ui.ac.ir
 - sherkati@alumni.kntu.ac.ir
 
 
