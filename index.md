@@ -46,7 +46,7 @@ Research Assistant, Sep 2020 - Present
 - M.Sc. Thesis: Hardware-software Co-Design in Image Edge Detection Algorithms. Advisor: Zohre Beiki.
 - Design and Optimize the Convolutional Layer in Hardware. Advisor: Zohre Beiki.
 
-**K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
+**K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
 Research Assistant, Sep 2016 - Aug 2020
 - B.Sc. Thesis: Playing an Atari game using Deep Reinforcement Learning approach. Advisor: Seyed Hossein Khasteh.
 - Using Q-Learning method in finding the best route to the outside of a house. Advisor: Seyed Hossein Khasteh.
