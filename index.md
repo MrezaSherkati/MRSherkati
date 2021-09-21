@@ -17,7 +17,7 @@ I am a Research Assistant in <b>Hardware-Software Co-Design Research Group</b> a
 M.Sc. in Computer Engineering (Computer Architecture), Sep 2020 - Present<br>
 -Thesis: Hardware-software Co-Design in Image Edge Detection Algorithms. Advisor: Zohre Beiki.
 
-- **K. N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Tehran, Iran**
+- **K. N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;         Tehran, Iran**
 B.Sc. in Computer Engineering (Hardware), Sep 2014 - Sep 2019<br>
 -Thesis: Playing an Atari game using Deep Reinforcement Learning approach. Advisor: Seyed Hossein Khasteh.
 
@@ -89,6 +89,7 @@ programming language.
 - **Designing a Network in GNS3:** Implemented a DHCP server in a network using GNS3 emulator.
 
 ## Honors and Awards
+
 
 
 -<b>1st Ranked</b> in M.Sc. level Studies in Computer Architecture major at <b>University of Isfahan</b>, class
