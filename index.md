@@ -92,7 +92,7 @@ programming language.
 
 
 
--<b>1st Ranked</b> in M.Sc. level Studies in Computer Architecture major at <b>University of Isfahan</b>, class
+- <b>1st Ranked</b> in M.Sc. level Studies in Computer Architecture major at <b>University of Isfahan</b>, class
 of 2020.
 
 - <b>Scholarship</b> for Graduate Studies at <b>University of Isfahan.,</b> Aug. 2020.<br>
