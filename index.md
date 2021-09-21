@@ -6,18 +6,18 @@
 
 ## About
 
-I am Mohammadreza Sherkati. I am a M.Sc. student in <b>Computer Engineering</b> (Computer Architecture) at <b>University of Isfahan</b>, which is known as one of the <b>top universities</b> in Iran.
+I am Mohammadreza Sherkati. I am a M.Sc. student in <b>Computer Engineering</b> (Computer Architecture) at <b>University of Isfahan</b>, Iran. I have received my B.Sc. Degree in Computer Engineering (Hardware) from <b>K. N. Toosi University of Technology</b>, Tehran, Iran in 2019.
 
-I am a Research Assistant in <b>Hardware-Software Co-Design Research Group</b> at <b>University of Isfahan</b>, working on using Hardware-Software Codesign in Image Processing Algorithms.
+I am a Research Assistant in <b>Hardware-Software Co-Design Research Group</b> at <b>University of Isfahan</b>, working on using Hardware-Software Codesign in Image Processing and Deep Learning problems.
 
 
 ## Education
 
 - **University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Isfahan, Iran**
 M.Sc. in Computer Engineering (Computer Architecture), Sep 2020 - Present<br>
--Advisor: Zohre Beiki.
+-Thesis: Hardware-software Co-Design in Image Edge Detection Algorithms. Advisor: Zohre Beiki.
 
-- **K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Tehran, Iran**
+- **K. N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Tehran, Iran**
 B.Sc. in Computer Engineering (Hardware), Sep 2014 - Sep 2019<br>
 -Thesis: Playing an Atari game using Deep Reinforcement Learning approach. Advisor: Seyed Hossein Khasteh.
 
@@ -43,16 +43,14 @@ and Automata, Operating Systems, Databases, VLSI, Advanced Computer Architecture
 
 **Hardware-Software Co-Design Research Group, University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Isfahan, Iran**
 Research Assistant, Sep 2020 - Present
-- Working on using Hardware-Software Co-Design in Image Processing Algorithms. Advisor: Zohre Beiki.
+- M.Sc. Thesis: Hardware-software Co-Design in Image Edge Detection Algorithms. Advisor: Zohre Beiki.
+- Design and Optimize the Convolutional Layer in Hardware. Advisor: Zohre Beiki.
 
-**Machine Learning Research Group, K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
+**K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
 Research Assistant, Sep 2016 - Aug 2020
-- Worked on the project "Playing an Atari game using Deep Reinforcement Learning approach". Advisor: Seyed Hossein Khasteh.
-- Worked on the project "Using Q-Learning method in finding the best route to the outside of a house". Advisor: Seyed Hossein Khasteh.
-
-**K.N.Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
-Research Assistant, Sep 2016 - Sep 2018
-- Worked on the project "Location Service in Wireless Sensor Networks (WSN)". Optimizing the process of
+- B.Sc. Thesis: Playing an Atari game using Deep Reinforcement Learning approach. Advisor: Seyed Hossein Khasteh.
+- Using Q-Learning method in finding the best route to the outside of a house. Advisor: Seyed Hossein Khasteh.
+- Location Service in Wireless Sensor Networks (WSN): Optimizing the process of
 finding the location of Sinks in wireless sensor networks. Advisor: Saeed Sedighian Kashi.
 
 
@@ -93,18 +91,19 @@ programming language.
 ## Honors and Awards
 
 
+-<b>1st Ranked</b> in M.Sc. level Studies in Computer Architecture major at <b>University of Isfahan</b>, class
+of 2020.
+
 - <b>Scholarship</b> for Graduate Studies at <b>University of Isfahan.,</b> Aug. 2020.<br>
  -University of Isfahan is one of the top universities in Iran, which selects the top
 ranked students in Iranian National University Entrance Exam for Master's degree.
-
-- <b>Ranked</b> in top 0.1% in the nationwide university entrance exam (konkoor) among over 1,370,000 participants, Aug. 2014.
 
 - <b>Scholarship</b> for Undergraduate Studies at <b>K.N.Toosi University of Technology.,</b> Aug. 2014.<br>
  -K.N.Toosi University of Technology is one of the top five universities in Iran, which selects the top
 ranked students in Iranian National University Entrance Exam, between 1,370,000 participants.
 
-- <b>Admission</b> to <b>Allameh Tabatabaei High School.,</b> Aug. 2010.<br>
--Allameh Tabatabaei High School is one of the top three high schools in Iran.
+- <b>Ranked</b> in top 0.1% in the nationwide university entrance exam (konkoor) among over 1,370,000 participants, Aug. 2014.
+
 
 ## Technical Skills
 
