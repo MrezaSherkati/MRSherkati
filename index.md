@@ -17,7 +17,7 @@ Ph.D. in Electrical and Computer Engineering, May 2023 - Present<br>
 
 - **University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;         Isfahan, Iran**
 M.Sc. in Computer Engineering (Computer Architecture), Sep 2020 - Jan 2023<br>
--Thesis:  Image Edge Detection Algorithm improvement based on Hardware/Software Co-Design. Advisor: Zohre Beiki.
+-Thesis: Image Edge Detection Algorithm improvement based on Hardware/Software Co-Design. Advisor: Zohre Beiki.
 
 - **K. N. Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;         Tehran, Iran**
 B.Sc. in Computer Engineering (Hardware), Sep 2014 - Sep 2019<br>
@@ -50,15 +50,15 @@ Research Assistant, May 2023 - Present
 
 **Hardware-Software Co-Design Research Group, University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Isfahan, Iran**
 Research Assistant, Sep 2020 - April 2023
-- M.Sc. Thesis: Hardware-software Co-Design in Image Edge Detection Algorithms. Advisor: Zohre Beiki.
-- Design and Optimize the Convolutional Layer in Hardware. Advisor: Zohre Beiki.
+- M.Sc. Thesis: Image Edge Detection Algorithm improvement based on Hardware/Software Co-Design
+- Design and Optimize the Convolutional Layer in Hardware.
 
 **K. N. Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
 Research Assistant, Sep 2016 - Aug 2020
-- B.Sc. Thesis: Playing an Atari game using Deep Reinforcement Learning approach. Advisor: Seyed Hossein Khasteh.
-- Using Q-Learning method in finding the best route to the outside of a house. Advisor: Seyed Hossein Khasteh.
+- B.Sc. Thesis: Playing an Atari game using Deep Reinforcement Learning approach.
+- Using Q-Learning method in finding the best route to the outside of a house.
 - Location Service in Wireless Sensor Networks (WSN): Optimizing the process of
-finding the location of Sinks in wireless sensor networks. Advisor: Saeed Sedighian Kashi.
+finding the location of Sinks in wireless sensor networks.
 
 
 
