@@ -21,7 +21,7 @@ M.Sc. in Computer Engineering (Computer Architecture), Sep 2020 - Jan 2023<br>
 
 - **K. N. Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;         Tehran, Iran**
 B.Sc. in Computer Engineering (Hardware), Sep 2014 - Sep 2019<br>
--Thesis: Playing an Atari game using Deep Reinforcement Learning approach. Advisor: Seyed Hossein Khasteh.
+-Thesis: Playing an Atari game using Deep Reinforcement Learning approach.     Advisor: Seyed Hossein Khasteh.
 
 - **Allameh Tabatabaei High School &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tehran, Iran**
 Diploma in Physics and Mathematics Discipline, Sep 2010 - Jun 2014
