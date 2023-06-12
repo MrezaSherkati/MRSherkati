@@ -6,16 +6,18 @@
 
 ## About
 
-I am Mohammadreza Sherkati. I am a M.Sc. student in <b>Computer Engineering</b> (Computer Architecture) at <b>University of Isfahan</b>, Iran. I have received my B.Sc. Degree in Computer Engineering (Hardware) from <b>K. N. Toosi University of Technology</b>, Tehran, Iran in 2019.
+I am Mohammadreza Sherkati. I am a Ph.D. student in <b>Electrical and Computer Engineering</b> at <b>Carleton University</b>, Ottawa, Canada. I have received my M.Sc. Degree in Computer Engineering (Computer Architecture) from <b>University of Isfahan</b>, Isfahan, Iran in 2023 and my B.Sc. Degree in Computer Engineering (Hardware) from <b>K. N. Toosi University of Technology</b>, Tehran, Iran in 2019.
 
-I am a Research Assistant in <b>Hardware-Software Co-Design Research Group</b> at <b>University of Isfahan</b>, working on using Hardware-Software Codesign in Image Processing and Deep Learning problems.
+I am a Research Assistant at the <b>Systems and Computer Engineering Department</b> at <b>Carleton University</b>, working on addressing Cybersecurity Challenges in Autonomous Vehicles using Federated Learning.
 
 
 ## Education
+- **Carleton University &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Ottawa, Canada**
+Ph.D. in Electrical and Computer Engineering, May 2023 - Present<br>
 
 - **University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Isfahan, Iran**
-M.Sc. in Computer Engineering (Computer Architecture), Sep 2020 - Present<br>
--Thesis: Hardware-software Co-Design in Image Edge Detection Algorithms. Advisor: Zohre Beiki.
+M.Sc. in Computer Engineering (Computer Architecture), Sep 2020 - Jan 2023<br>
+-Thesis:  Image Edge Detection Algorithm improvement based on Hardware/Software Co-Design. Advisor: Zohre Beiki.
 
 - **K. N. Toosi University of Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;         Tehran, Iran**
 B.Sc. in Computer Engineering (Hardware), Sep 2014 - Sep 2019<br>
