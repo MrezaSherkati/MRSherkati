@@ -44,8 +44,12 @@ and Automata, Operating Systems, Databases, VLSI, Advanced Computer Architecture
 
 ## Research Experience
 
+**Carleton University &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ottawa, Canada**
+Research Assistant, May 2023 - Present
+- Addressing Cybersecurity Challenges in Autonomous Vehicles using Federated Learning.
+
 **Hardware-Software Co-Design Research Group, University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Isfahan, Iran**
-Research Assistant, Sep 2020 - Present
+Research Assistant, Sep 2020 - April 2023
 - M.Sc. Thesis: Hardware-software Co-Design in Image Edge Detection Algorithms. Advisor: Zohre Beiki.
 - Design and Optimize the Convolutional Layer in Hardware. Advisor: Zohre Beiki.
 
