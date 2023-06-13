@@ -99,16 +99,20 @@ programming language.
 
 
 
+- Awarded <b>Teaching Assistant Scholarship</b> from the Systems and Computer Engineering Department
+at <b>Carleton University</b>, May 2023.
+
+- Awarded <b>Departmental Scholarship</b> from the Systems and Computer Engineering Department
+at <b>Carleton University</b>, May 2023.
+
+- <b>Scholarship</b> for Ph.D. Studies at <b>Carleton University</b>, May 2023
+
 - <b>1st Ranked</b> in M.Sc. level Studies in Computer Architecture major at <b>University of Isfahan</b>, class
 of 2020.
 
-- <b>Scholarship</b> for Graduate Studies at <b>University of Isfahan.,</b> Aug. 2020.<br>
- -University of Isfahan is one of the top universities in Iran, which selects the top
-ranked students in Iranian National University Entrance Exam for Master's degree.
+- <b>Scholarship</b> for Graduate Studies at <b>University of Isfahan,</b> Aug. 2020.<br>
 
-- <b>Scholarship</b> for Undergraduate Studies at <b>K. N. Toosi University of Technology.,</b> Aug. 2014.<br>
- -K. N. Toosi University of Technology is one of the top five universities in Iran, which selects the top
-ranked students in Iranian National University Entrance Exam, between 1,370,000 participants.
+- <b>Scholarship</b> for Undergraduate Studies at <b>K. N. Toosi University of Technology,</b> Aug. 2014.<br>
 
 - <b>Ranked</b> in top 0.1% in the nationwide university entrance exam (konkoor) among over 1,370,000 participants, Aug. 2014.
 
@@ -135,13 +139,12 @@ ranked students in Iranian National University Entrance Exam, between 1,370,000 
 
 **Email Addresses:**
 - mohammadreza.sherkati@gmail.com
-- m.sherkati@eng.ui.ac.ir
-- sherkati@alumni.kntu.ac.ir
+- mohammadrezasherkati@cmail.carleton.ca
 
 
 
 **Address:**
-- Department of Computer Engineering, University of Isfahan, Isfahan, Iran
+- Systems and Computer Engineering Department, Carleton University, Ottawa, Ontario, Canada
 
 
 [LinkedIn](https://www.linkedin.com/in/mohammadreza-sherkati-ba7971124/)
