@@ -110,9 +110,9 @@ at <b>Carleton University</b>, May 2023.
 - <b>1st Ranked</b> in M.Sc. level Studies in Computer Architecture major at <b>University of Isfahan</b>, class
 of 2020.
 
-- <b>Scholarship</b> for Graduate Studies at <b>University of Isfahan,</b> Aug. 2020.<br>
+- <b>Scholarship</b> for Graduate Studies at <b>University of Isfahan</b>, Aug. 2020.<br>
 
-- <b>Scholarship</b> for Undergraduate Studies at <b>K. N. Toosi University of Technology,</b> Aug. 2014.<br>
+- <b>Scholarship</b> for Undergraduate Studies at <b>K. N. Toosi University of Technology</b>, Aug. 2014.<br>
 
 - <b>Ranked</b> in top 0.1% in the nationwide university entrance exam (konkoor) among over 1,370,000 participants, Aug. 2014.
 
