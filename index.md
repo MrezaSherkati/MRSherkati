@@ -44,12 +44,12 @@ and Automata, Operating Systems, Databases, VLSI, Advanced Computer Architecture
 
 ## Research Experience
 
-**Carleton University &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ottawa, Canada**
+**Carleton University &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ottawa, Canada**
 Research Assistant, May 2023 - Present
 - Addressing Cybersecurity Challenges in Autonomous Vehicles using Federated Learning.
 
 **Hardware-Software Co-Design Research Group, University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Isfahan, Iran**
-Research Assistant, Sep 2020 - April 2023
+Research Assistant, Sep 2020 - Apr 2023
 - M.Sc. Thesis: Image Edge Detection Algorithm improvement based on Hardware/Software Co-Design
 - Design and Optimize the Convolutional Layer in Hardware.
 
